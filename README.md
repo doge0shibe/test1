@@ -1,2 +1,2 @@
 # test1
-Beanie bBabies eat Beans
+Beanie Babies eat Beans
