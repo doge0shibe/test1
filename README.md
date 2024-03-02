@@ -1,2 +1,2 @@
-# test1
+# BEANS
 Beanie Babies eat Beans
